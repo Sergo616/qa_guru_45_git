@@ -2,7 +2,7 @@ package guru.qa;
 
 public class Main {
 
-privat static String msg = "Hello, qa guru!!!!!!!!!!!!!";
+privat static String msg = "Hello, qa guru!";
     
     public static void main(String[] args) {
         System.out.println(msg);
